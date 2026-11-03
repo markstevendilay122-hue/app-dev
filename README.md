@@ -1,5 +1,5 @@
 # My Favorite Movie: Avatar: The Way of Water
-![Avatar 2 Poster](PASTE-IMAGE-LINK-HERE)
+![Avatar 2 Poster]([PASTE-IMAGE-LINK-HERE](https://www.bing.com/images/search?view=detailV2&ccid=mDvZE7Q%2f&id=E65C6577F9E5F3EC8CD4BCC62A1F508FC8E633F2&thid=OIP.mDvZE7Q_oSmLbmmv3DO3rQHaNK&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp11484135.jpg&exph=1920&expw=1080&q=avatar+2+poster&mode=overlay&FORM=IQFRBA&ck=7B4EE1E44541978A2DEB72B0C8C0C4E7&selectedIndex=0&idpp=serp))
 ## Overview
 **Avatar: The Way of Water** is the 2022 sequel to *Avatar*, directed by **James Cameron**. It follows Jake Sully and his family as they leave their forest home and seek refuge with the *Metkayina* reef clan.
 ## Main Characters
